@@ -1,4 +1,4 @@
-# DaoDao-Skills
+# daodao-skills
 
 > daodao166888 的个人 Agent Skills 工具箱。内容创作 + AI 实战向，沉淀成可以直接用的 Skill。
 
@@ -10,10 +10,10 @@
 
 ```bash
 # 安装全部
-npx skills add daodao166888/DaoDao-Skills
+npx skills add daodao166888/daodao-skills
 
 # 或只装 dao-deai
-npx skills add https://github.com/daodao166888/DaoDao-Skills -s dao-deai
+npx skills add https://github.com/daodao166888/daodao-skills -s dao-deai
 ```
 
 装完直接说：
@@ -39,7 +39,7 @@ npx skills add https://github.com/daodao166888/DaoDao-Skills -s dao-deai
 ## 目录结构
 
 ```
-DaoDao-Skills/
+daodao-skills/
 ├── README.md
 ├── LICENSE
 ├── .claude-plugin/          # marketplace 配置
@@ -62,7 +62,7 @@ DaoDao-Skills/
 
 - Obsidian 内容库：`D:\DaoDao-IP\`
 - X：[daodao166888](https://x.com/daodao166888)
-- 参考：[dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)（去 AI 味方法论部分启发）
+- 方法论来源：[去 AI 味开源工具大全](docs/de-ai-tools/README.md)（从 16 个开源项目的方法论中提炼）
 
 ## License
 
