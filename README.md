@@ -24,7 +24,7 @@ npx skills add https://github.com/daodao166888/daodao-skills -s daodao-aihow
 ```text
 /daodao-deai 这段太AI了，帮我改得像人话：[粘贴你的文案]
 
-/daodao-aihow 帮我看看这个方案靠不靠谱  # 自动判断该用哪种交互方式再回答
+/daodao-aihow AI回答得不行，帮我看看  # 自动判断该怎么问再帮你问
 ```
 
 ## 当前内容
@@ -34,7 +34,7 @@ npx skills add https://github.com/daodao166888/daodao-skills -s daodao-aihow
 | Skill | 作用 | 触发 |
 |---|---|---|
 | `/daodao-deai` | 去 AI 味：把生硬的 AI 文案改得像人写的，守住事实和原意 | 「去AI味」「降AI味」「改得像人话」 |
-| `/daodao-aihow` | AI 交互方式决策器：先判断该用哪种方式再互动，告别「想不起来」 | 「用对方式」「选对交互」「怎么问AI」 |
+| `/daodao-aihow` | AI 交互方式决策器：觉得跟 AI 聊不好时，帮你换种方式问，让回答上一个台阶 | 「AI回答得不行」「答非所问」「不知道怎么问AI」「帮我改改这个问法」 |
 
 ### 文档
 
