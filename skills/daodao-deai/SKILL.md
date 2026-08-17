@@ -1,5 +1,5 @@
 ---
-name: dao-deai
+name: daodao-deai
 description: 去 AI 味。把生硬的 AI 文案改得像人写的，保留事实、数字和原意，不新增任何内容。用户说「去AI味」「降AI味」「改得像人话」「这段太AI了」时使用。支持 X/小红书/公众号/通用四类场景。
 ---
 

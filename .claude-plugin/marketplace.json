@@ -9,9 +9,9 @@
   },
   "plugins": [
     {
-      "name": "dao-deai",
+      "name": "daodao-deai",
       "description": "去 AI 味。把生硬的 AI 文案改得像人写的，保留事实和原意，不新增任何内容。综合 GitHub 16 个去 AI 味工具的方法论，支持 X/小红书/公众号/通用四类场景。",
-      "source": "./skills/dao-deai",
+      "source": "./skills/daodao-deai",
       "strict": true,
       "version": "0.1.0",
       "category": "content-creation",

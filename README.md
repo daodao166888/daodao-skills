@@ -12,14 +12,14 @@
 # 安装全部
 npx skills add daodao166888/daodao-skills
 
-# 或只装 dao-deai
-npx skills add https://github.com/daodao166888/daodao-skills -s dao-deai
+# 或只装 daodao-deai
+npx skills add https://github.com/daodao166888/daodao-skills -s daodao-deai
 ```
 
 装完直接说：
 
 ```text
-/dao-deai 这段太AI了，帮我改得像人话：[粘贴你的文案]
+/daodao-deai 这段太AI了，帮我改得像人话：[粘贴你的文案]
 ```
 
 ## 当前内容
@@ -28,7 +28,7 @@ npx skills add https://github.com/daodao166888/daodao-skills -s dao-deai
 
 | Skill | 作用 | 触发 |
 |---|---|---|
-| `/dao-deai` | 去 AI 味：把生硬的 AI 文案改得像人写的，守住事实和原意 | 「去AI味」「降AI味」「改得像人话」 |
+| `/daodao-deai` | 去 AI 味：把生硬的 AI 文案改得像人写的，守住事实和原意 | 「去AI味」「降AI味」「改得像人话」 |
 
 ### 文档
 
@@ -46,13 +46,13 @@ daodao-skills/
 ├── docs/
 │   └── de-ai-tools/         # 去AI味工具大全
 └── skills/
-    └── dao-deai/            # 去AI味 skill
+    └── daodao-deai/            # 去AI味 skill
         └── SKILL.md
 ```
 
 ## 路线图
 
-- [x] dao-deai：去 AI 味 skill（综合 16 个工具方法论）
+- [x] daodao-deai：去 AI 味 skill（综合 16 个工具方法论）
 - [x] 去 AI 味开源工具大全
 - [ ] 选题深化 skill（对接 Obsidian 内容工作流）
 - [ ] X 推文全流程 skill（选题→写作→去味→标题）

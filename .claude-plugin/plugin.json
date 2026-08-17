@@ -3,6 +3,6 @@
   "displayName": "daodao-skills",
   "description": "daodao166888 的内容创作 Skills 工具箱。当前包含去 AI 味（dao-deai）。",
   "skills": [
-    "./skills/dao-deai"
+    "./skills/daodao-deai"
   ]
 }
