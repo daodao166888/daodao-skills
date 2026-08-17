@@ -1,0 +1,29 @@
+{
+  "name": "daodao-skills",
+  "owner": {
+    "name": "daodao166888"
+  },
+  "metadata": {
+    "description": "daodao166888 的内容创作 Skills 工具箱 — 把内容创作里反复用到的能力打包成 skill，并整理值得收藏的工具与方法论文档",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "dao-deai",
+      "description": "去 AI 味。把生硬的 AI 文案改得像人写的，保留事实和原意，不新增任何内容。综合 GitHub 16 个去 AI 味工具的方法论，支持 X/小红书/公众号/通用四类场景。",
+      "source": "./skills/dao-deai",
+      "strict": true,
+      "version": "0.1.0",
+      "category": "content-creation",
+      "keywords": [
+        "de-ai",
+        "humanizer",
+        "writing",
+        "chinese",
+        "content",
+        "xiaohongshu",
+        "twitter"
+      ]
+    }
+  ]
+}
