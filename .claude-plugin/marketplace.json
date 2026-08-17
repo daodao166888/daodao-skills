@@ -24,6 +24,23 @@
         "xiaohongshu",
         "twitter"
       ]
+    },
+    {
+      "name": "daodao-aihow",
+      "description": "AI 交互方式决策器。先判断当前该用哪种交互方式（直接执行/发散探索/对抗审稿/思维模型/角色扮演/反向提问/教学检验/推演模拟/资产沉淀），再按该方式真正互动，告别「想不起来」。",
+      "source": "./skills/daodao-aihow",
+      "strict": true,
+      "version": "0.1.0",
+      "category": "ai-workflow",
+      "keywords": [
+        "ai",
+        "prompt",
+        "interaction",
+        "decision",
+        "chat",
+        "workflow",
+        "chinese"
+      ]
     }
   ]
 }

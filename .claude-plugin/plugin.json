@@ -1,8 +1,9 @@
 {
   "name": "daodao",
   "displayName": "daodao-skills",
-  "description": "daodao166888 的内容创作 Skills 工具箱。当前包含去 AI 味（dao-deai）。",
+  "description": "daodao166888 的内容创作 + AI 实战 Skills 工具箱。包含去 AI 味（daodao-deai）、AI 交互方式决策（daodao-aihow）。",
   "skills": [
-    "./skills/daodao-deai"
+    "./skills/daodao-deai",
+    "./skills/daodao-aihow"
   ]
 }
