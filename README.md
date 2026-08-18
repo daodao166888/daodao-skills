@@ -70,6 +70,12 @@ daodao-skills/
 - [ ] X 推文全流程 skill（选题→写作→去味→标题）
 - [ ] 内容拆解 skill
 
+## 维护规则
+
+- 本仓库 = 公开免费层，内容必须自包含、可直接安装
+- **基础 9 方式两版同步**：`skills/daodao-aihow/SKILL.md` 的「基础 9 方式」与私有版 `daodao-skills-private/skills/daodao-aihow/SKILL.md` 保持一致；改任何一份必须同步另一份，commit message 标注「同步公开版/私有版」
+- 公开版只放基础能力，进阶玩法（完整决策矩阵/43 种方式/模板包）留在私有版
+
 ## 关联
 
 - Obsidian 内容库：`D:\DaoDao-IP\`
